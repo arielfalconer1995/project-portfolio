@@ -1,2 +1,2 @@
 # project-portfolio
- This portfolio was written within 6 days, using HTML and CSS technologies.
+This portfolio was written in a period of 6 days as a personal project. HTML and CSS technologies were used, also giving it a responsive design
